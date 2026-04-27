@@ -84,3 +84,13 @@ The dashboard effectively provides insights into inventory and sales performance
 ## Screenshots
 <img width="1297" height="723" alt="Gerocery Inventory Screen Short" src="https://github.com/user-attachments/assets/8f1eaabb-b47b-41bf-b160-4822f2508495" />
 
+
+## Tags 
+Domain Tags :
+
+#RetailAnalytics, #GroceryAnalytics, #InventoryManagement,
+#SupplyChainAnalytics, #SalesAnalysis, #MiniProject.
+
+
+
+
