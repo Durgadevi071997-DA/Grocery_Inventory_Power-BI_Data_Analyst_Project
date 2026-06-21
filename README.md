@@ -1,7 +1,7 @@
 
 ## Grocery Inventory
 ## Project Overview
-The Grocery Inventory Dashboard is a data visualization project designed to monitor and analyze sales, stock levels, supplier performance, and profitability in a grocery business. The dashboard provides a centralized view of key metrics like total sales, stock quantity, reorder levels, and category-wise performance, helping stakeholders make data-driven decisions efficiently
+The Grocery Inventory Dashboard is a data visualization project designed to monitor and analyze sales, stock levels, supplier performance, and profitability in a grocery business. The dashboard provides a centralized view of key metrics like total sales, stock quantity, reorder levels, and category-wise performance, helping stakeholders make data-driven decisions efficiently.
 
 ## Project Objectives
 Track overall sales and profit performance
